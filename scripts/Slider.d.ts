@@ -1,0 +1,3 @@
+interface jQuery {
+    Slider: jQuery
+}
